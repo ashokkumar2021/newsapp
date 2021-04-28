@@ -1,0 +1,7 @@
+.main{
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+   font-size: 30px;
+   margin-top: 20vh;
+}
